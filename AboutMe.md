@@ -11,3 +11,4 @@ Cześć, jestem Wiktor! Studiuję informatykę. Lubię programowanie oraz siłow
 
 ## Mój GitHub
 Można mnie znaleźć na GitHubie pod tym [linkiem](https://github.com/wiktorlazar/Team-alpha/edit/feature/s34549/markdown/hello.md).
+
